@@ -18,5 +18,3 @@
 * [ ] The URL of the GitHub repository
 
 [deployed app](link)
-
-_nb The Amadeus API POI token has a short expiry. As OAuth is not implemented, POIs will not be returned from Amadeus._
